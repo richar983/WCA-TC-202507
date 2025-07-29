@@ -1,6 +1,6 @@
 # <wca-title>WCA 指導方針
 
-<version>版本：2024年1月1日
+<version>版本：2025年1月1日
 
 
 ## 註釋
