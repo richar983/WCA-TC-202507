@@ -391,15 +391,20 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - A1b2) 如果Stackmat計時器有記錄到時間，則依此記錄時間，否則（例如：Stackmat計時器故障、計時超過10分鐘、或是沒有使用Stackmat計時器）就以碼錶時間為準。
     - A1c) 參賽者必須要能夠達成比賽項目基本要求才來參加該項目。(參見[規則 2k6](regulations:regulation:2k6))
 - A2) 轉亂：
-    - A2a) 當在該輪被叫到名字時，參賽者將解好的方塊交給轉亂員，並於預備區等待，直到被唱名到台前比賽。
+    - A2a) When called for a round, the competitor submits a solved puzzle to the scrambler.
+        - A2a1) If a Competitor Waiting Area is in use, the competitor must remain within their assigned Competitor Waiting Area until they are called to complete an attempt. The competitor must return to their assigned Competitor Waiting Area after completing each attempt if they have more attempts in the round. Exception: competitors may leave the Competitor Waiting Area with permission from the WCA Delegate. Penalty: disqualification of the remaining attempts (DNF), at the discretion of the WCA Delegate.
+        - A2a2) If a Competitor Waiting Area is not in use, the competitor must remain at their assigned solving station until they have completed all their attempts in the round. Exception: competitors may leave their assigned solving station with permission from the WCA Delegate. Penalty: disqualification of the remaining attempts (DNF), at the discretion of the WCA Delegate.
+        - A2a3) Once called for a round, a competitor must not attempt to enter any area assigned for scrambling until all competitors in their group have no further attempts, unless permission has been granted by the WCA Delegate.
     - A2b) 轉亂員依據[第4章](regulations:article:4)的規定來對方塊做轉亂。
         - A2b1) 在Square-1項目，主辦團隊可以強制在方塊中放置一片物體，避免方塊在還原之前被意外地轉動。一旦決定要使用該物體，主辦團隊應該在該輪開始前向參賽者公告。
     - A2c) 從轉亂員開始轉亂方塊到參賽者開始觀察方塊的這段時間內，禁止參賽者看到方塊。
         - A2c1) 轉亂員用蓋子罩住整顆方塊，讓參賽者或觀眾無法看到方塊的任何一部分，直到開始還原為止。
+        - A2c2) When competing, competitors must not actively try to watch another competitor complete an official attempt. If the competitor watches another competitor attempt a scramble they have not yet received, the corresponding attempt is recorded as DNF.
     - A2d) 當裁判從轉亂員手上接過方塊後，裁判要快速的看一下方塊的轉亂情形。如果有疑問，裁判應該通知轉亂員做詳細檢查。
-        - A2d1) 主辦團隊應該要求轉亂員在成績單上簽名或縮寫表示轉亂員有使用正確的轉亂步驟且轉亂狀態與轉亂步驟的圖案相符。轉亂員或是被授權的裁判必須要確認被轉亂的方塊，並在成績單上簽名（或縮寫）以用來確認已經確實正確轉亂方塊並且與圖案相符。(參見[規則 4g](regulations:regulation:4g))例外：6x6x6方塊、7x7x7方塊和12面體Megaminx，轉亂員可以簽名或縮寫表示方塊已經轉亂足夠。(參見[規則 4g1](regulations:regulation:4g1))
+        - A2d1) The scrambler or an authorized judge must check the scrambled puzzle, and sign the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image (see [Regulation 4g](regulations:regulation:4g)). Exception: for 6x6x6 Cube, 7x7x7 Cube, and Megaminx the scrambler may sign to affirm that the puzzle is sufficiently scrambled (see [Regulation 4g1](regulations:regulation:4g1)). Scrambler signatures should be consistent throughout the competition and should identify the scrambler.
     - A2e) 裁判將方塊以任何方向（任一面皆可）放置在墊子上，且確定方塊有被完全罩住。
         - A2e1) 參賽者無權要求特定的放置方向，裁判也禁止根據自己的想法決定方塊在墊子上的放置方向。
+        - A2e2) The competitor must not remove the cover themselves. Penalty: disqualification of the attempt (DNF).
 - A3) 觀察：
     - A3a) 每一次還原開始時，參賽者可以觀察方塊。
         - A3a1) 開始解方塊前，參賽者觀察時間要小於15秒。
@@ -415,7 +420,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - A3c3) 參賽者可以在還沒開始解方塊前將計時器歸零。
         - A3c4) 在Square-1項目，若主辦團隊決定在方塊中放置一片物體(參見[附則 A2b1](regulations:regulation:A2b1))，參賽者可以在觀察階段內將該物體移除。
         - A3c5) 在Square-1項目，參賽者不應該在[規則 10f](regulations:regulation:10f)所描述的限度內，因任何不小心的轉動而受到處罰。
-    - A3d) 觀察完畢後，參賽者將方塊放回墊子上，方塊擺放哪個面朝上皆可。把方塊放在墊子以外的處罰：加罰時間（+2秒）。
+    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. The puzzle must be placed fully on the mat and must not be fully or partially resting on the Stackmat timer. Penalty: time penalty (+2 seconds).
 - A4) 開始解方塊：
     - A4b) 參賽者用手指碰觸Stackmat計時器感應區。參賽者的掌心必須向下，並在靠近參賽者那一側的計時器側邊。處罰：加罰時間（+2秒）。
         - A4b1) 從觀察完畢到開始解方塊前，參賽者跟方塊禁止有碰觸。處罰：加罰時間（+2秒）。
@@ -430,15 +435,16 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - A5c) 參賽者可以拿著方塊並碰觸桌面來幫助操作。(參見[規則 7f1d](regulations:regulation:7f1d))
 - A6) 結束：
     - A6a) 參賽者以放下方塊然後再停止計時器來作為結束的動作。如果有使用碼錶計時，裁判在參賽者放下方塊同時停止碼錶。
+        - A6a1) If the judge is not immediately available to stop the stopwatch when a stopwatch is in use, the competitor may stop the stopwatch.
     - A6b) 參賽者有責任以正確的方式停止Stackmat計時器。
-        - A6b1) 如果計時器提早結束，且顯示器顯示低於0.06秒，則可以用額外的還原機會來取代。如果WCA代表認為計時器是被故意停止的，參賽者失去額外的還原機會。
-        - A6b2) 如果計時器提早結束，且顯示器顯示0.06秒以上，則該次還原為DNF。例外：如果參賽者能夠證實計時器故障，WCA代表可以給予額外的還原機會。
+        - A6b1) If the timer stops before the competitor has solved the puzzle and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. Exception: No extra attempt is required if the WCA Delegate determines that the timer was stopped deliberately, or as a result of interacting with the timer in an unusual way (e.g. making only minimal contact with the timer, not lifting the hands cleanly away from the timer).
+        - A6b2) If the timer stops before the competitor has solved the puzzle and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: The WCA Delegate may provide an extra attempt if they believe the timer may have malfunctioned and the competitor did not stop the timer deliberately.
     - A6c) 參賽者必須要完全放開方塊才能停止計時器。處罰：判定該次還原未完成（DNF）。例外：如果在停止計時器後，沒有轉動方塊或是沒有改變對齊狀態，可以只加罰時間（+2秒），由裁判決定。
     - A6d) 停止Stackmat計時器時必須使用雙手，雙手水平且掌心向下放置在感器區上。處罰：加罰時間（+2秒）。
     - A6e) 在停止計時器後，裁判還沒檢視方塊前，參賽者禁止碰觸方塊、轉動方塊、或是改變方塊的對齊狀態。
         - A6e1) 停止計時器後轉動方塊。處罰：判定該次還原未完成（DNF）。
         - A6e2) 停止計時器後碰觸但沒有轉動方塊。處罰：加罰時間（+2秒）。例外：如果在停止計時器後，參賽者只有一瞬間碰觸到方塊並且沒有影響方塊的完成狀態，可以不加罰時間，由裁判決定。(參見[規則 11f](regulations:regulation:11f))
-    - A6f) 在裁判或參賽者尚未在成績單上簽名之前，參賽者禁止將計時器歸零。處罰：判定該次還原未完成（DNF），由裁判決定。
+    - A6f) 在裁判或參賽者尚未在成績單上簽名之前，參賽者禁止將計時器歸零。處罰：判定該次還原未完成（DNF），由裁判決定。 Exception: see [Regulation A7c5](regulations:regulation:A7c5).
         - A6f1) 如果參賽者在成績記錄完成前將計時器歸零，裁判禁止根據記憶、影片或照片來記錄該次成績，且此還原必須被判罰為無效(DNF)。
     - A6g) 裁判判定方塊是否為完成狀態。如果方塊有出現未對齊，在裁判判斷方塊的最終狀態之前，禁止碰觸方塊。
     - A6h) 如果有發生爭議，在爭議解決前禁止轉動或對齊方塊。
@@ -446,14 +452,17 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - A7) 成績記錄：
     - A7a) 裁判告知參賽者判決。
         - A7a1) 裁判應該要向參賽者表示方塊是否解完成，或是是否有處罰。
-    - A7b) 裁判在成績單上寫下成績並在成績旁邊簽名以確認成績正確、格式正確，且容易辨認。
+    - A7b) 裁判在成績單上寫下成績並在成績旁邊簽名以確認成績正確、格式正確，且容易辨認。 Judge signatures should be consistent throughout the competition and should identify the judge.
         - A7b1) 當有處罰時，裁判寫下計時器上的時間，並在旁邊寫下處罰。格式應該為「T + X = F」，T是計時器顯示的時間（原始時間），X是還原期間的加時處罰總和，F是最後結果成績（例如：17.65 + 4 = 21.65）。
-    - A7c) 參賽者必須確認成績單上的成績，並在成績單上簽名或縮寫表示承認成績結果。則此次還原結束。
+    - A7c) 參賽者必須確認成績單上的成績，並在成績單上簽名表示承認成績結果。則此次還原結束。
         - A7c1) 如果參賽者或是裁判拒絕在成績單上簽名，WCA代表必須要解決爭議。
-        - A7c2) 如果參賽者還沒開始還原前就故意簽名（或做其他記號），此還原將被判為DNS。
+        - A7c2) 如果參賽者還沒開始還原前就故意簽名（或做其他記號），此還原將被判為DNS。 Exception: for 3x3x3 Multi-Blind, the competitor may write the number of cubes they are attempting on the scorecard.
         - A7c3) 如果參賽者在還原開始後且在裁判記錄成績前就簽名（或做其他記號），判定該次還原未完成（DNF）。
         - A7c4) 參賽者不應該在裁判尚未記錄成績和簽名之前就簽名。參賽者需負責確保自己和裁判都在還原結束後確實簽名。如果裁判將成績單遞交給成績紀錄員以後(參見[附則 A7f](regulations:regulation:A7f))，某還原被發現缺少了其中一方或雙方的簽名，判定該次還原未完成（DNF）。
         - A7c5) 在比賽未結束前所發現的未簽名部分(參見[規則 9u](regulations:regulation:9u))，可以由該位裁判和/或該位參賽者補簽，由WCA代表決定。
+        - A7c6) Competitor signatures should be consistent throughout the competition and should identify the competitor. Competitors must not intentionally sign incorrectly. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
+        - A7c7) The competitor should not mark the score sheet anywhere other than in the area provided for them to sign.
+        - A7c8) If a signature was missed due to the inexperience of the competitor, it may be added at any time, at the discretion of the WCA Delegate. If it is no longer possible for the scorecard to be physically signed by the competitor or the judge, an attestation that the result was correctly recorded may be accepted as a signature, at the discretion of the WCA Delegate.
     - A7f) 當該名參賽者完成該輪比賽後，裁判要把參賽者的成績單交給成績紀錄員。
 	- A7g) 若因比賽經驗不足導致意外或處罰，WCA代表可以給予額外的還原機會。
 
