@@ -222,8 +222,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 7f2) Stackmat計時器必須要連接在墊子上且放置在桌面上，計時器在最靠近參賽者的那一邊。
     - 7f3) 主辦團隊應該要改造Stackmat計時器，讓它不容易產生小意外，如降低意外按到按鈕的可能性(例如：在按鈕週圍加上O型環)，讓電池更牢固(例如在電池旁加上墊子)。
     - 7f4) Gen5 Pro計時器必須使用 2-Pad 模式（兩個感應區模式）。
-- 7h) 比賽區域中應該要有至少一個參賽者預備區。
-    - 7h1) 主辦團隊可以要求被唱名到的參賽者待在參賽者預備區直到他們完全結束該輪的所有還原。
+- 7h) If competitors do not remain at the same station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
     - 7h2) 定義：參賽者預備區是參賽者被唱名前往還原區域前所等待的指定區域。
 
 
