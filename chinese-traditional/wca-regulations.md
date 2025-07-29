@@ -191,13 +191,13 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 ## <article-5><puzzle-defects><puzzledefects> 章節 5：方塊故障
 
 - 5a) 方塊故障例子包含：方塊零件彈出、零件原位旋轉、螺絲脫落、蓋子分開、貼紙脫落。
-- 5b) 當方塊故障發生後，參賽者可以選擇修復方塊並繼續還原，或是選擇停止還原。
+- 5b) 當方塊故障發生後，參賽者可以選擇修復方塊並繼續還原，或是選擇停止還原。 The competitor is not permitted to cause a puzzle defect intentionally, unless correcting a previous puzzle defect (see [Regulation 5b3b](regulations:regulation:5b3b) and [Regulation 5b3c](regulations:regulation:5b3c)). Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
     - 5b1) 如果參賽者選擇要修復方塊，那他必須只能修復發生缺陷的部位。工具或其他方塊的零件禁止拿來用於修復方塊。處罰：判定該次還原未完成（DNF）。
     - 5b2) 修復的動作禁止讓參賽者有得利的情形。處罰：判定該次還原未完成（DNF）。
     - 5b3) 允許修復的情況：
         - 5b3a) 如果有任何零件掉出／移位，參賽者可以選擇裝／移回去。
         - 5b3b) 在修復之後，且仍在解方塊中，如果參賽者注意到方塊成為無法還原的狀態，他可以拆解並重新裝回最多四個零件來讓方塊成為可以還原的狀態。
-        - 5b3c) 如果方塊成為無法還原的狀態，且可以透過只旋轉一個角塊來讓方塊成為可以還原的狀態，參賽者可以旋轉那一個角塊來修正，而不用拆解方塊。
+        - 5b3c) 如果方塊成為無法還原的狀態，且可以透過只旋轉一個角塊來讓方塊成為可以還原的狀態，參賽者可以旋轉那一個角塊來修正，而不用拆解方塊。 If multiple corner pieces have been twisted as a result of puzzle defects, the competitor may correct these twists, as long as the number of pieces corrected by the competitor does not exceed the number of pieces twisted as a result of puzzle defects.
     - 5b4) 在盲解比賽中(參見[附則 B4](regulations:article:B4))，必須要在眼罩罩上的情形下修復方塊。處罰：判定該次還原未完成（DNF）。
     - 5b5) 若在解方塊階段結束後，方塊的一些零件掉出或是沒有完全歸位，則依照下面規則判定：
         - 5b5a) 一個或多個無色零件受影響，則判定為還原完成。
