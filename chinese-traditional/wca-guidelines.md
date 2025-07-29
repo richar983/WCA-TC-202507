@@ -123,19 +123,24 @@
 
 ## <article-9><events><events> 章節 9：比賽項目
 
-- 9b+) [附加] 當一個比賽項目有兩輪以上的時候，第二輪開始(特別是決賽)建議以「五次去頭尾平均(Average of 5)」或是「三次平均(Mean of 3)」來進行（如果當中任一型式許可）。
 - 9b++) [附加] 非[規則 9b](regulations:regulation:9b)中認可的比賽項目，可以在比賽中舉行，但會被視為非官方比賽項目，所以不會列入官方比賽的成績中。
 - 9b3b+) [釐清] 「3次平均(Mean of 3)」的成績不影響在「3次取最佳(Best of 3)」的排名（即依然根據最好一次的成績）。WCA只是在官方比賽型式之外承認平均成績。
 - 9f1+) [舉例] 如果計時器顯示 12.678，則成績應記錄為 12.67（省略任何百分位以後的數字）。只要成績紀錄員將第三位自動捨去來當作官方成績，裁判可以在成績單寫完整的時間（判罰時計算也要保持一致性）。
 - 9f2+) [附加] 3x3x3多顆盲解的項目中，裁判應該要寫下成功還原的方塊數量、嘗試的方塊總數量和最終時間。例如：如果參賽者在總共5顆的嘗試中，成功還原了3顆，而時間是40分鐘30秒，裁判應該要記下 3/5 40:30。
 - 9f4+) [解釋] 如果參賽者已經確認準備好了，但之後卻因故被受罰造成失去資格，則成績應該記為DNF(參考[規則 A3b2](regulations:regulation:A3b2))。
-- 9f5+) [釐清] 如果參賽者有辦法比賽但卻沒有參加，成績會記為DNS。(參考[規則 A3b2](regulations:regulation:A3b2))如果參賽者並沒有取得還原資格（例如：門檻制的比賽）他並不會留下任何比賽成績。（翻譯註解：連DNS都不會注記）
+- 9f5+) [CLARIFICATION] If the competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for the attempt.
+- 9l1+) [CLARIFICATION] A DNF Result is generally considered a valid result. Extra attempts must not be given for using a non-permitted puzzle that is only found after the round is complete (see [Regulation 3k2a](regulations:regulation:3k2a)).
+- 9l1++) [EXAMPLE] Examples of an invalid attempt: an attempt that was incorrectly scrambled, attempts where the results are no longer retrievable (e.g. a missing scorecard).
 - 9p2+) [釐清] 最佳成績是指決定相應輪次排名的單次或平均成績。
+- 9p2b+) [ADDITION] If there are not enough competitors representing the relevant region to fill the reserved spaces, they are replaced with the best competitors representing any region.
+- 9p2b++) [ADDITION] For a competition designated as both a World Championship and a Continental Championship and/or National Championship, this exception does not apply. For a competition designated as both a Continental Championship and a National Championship, spaces may only be reserved for competitors representing the relevant continent.
+- 9p2b+++) [RECOMMENDATION] Any use of reserved spaces should be clearly announced before the competition.
+- 9p3+) [CLARIFICATION] If a non-qualifying competitor would replace a qualifying competitor in this way, they may also withdraw, allowing the next best-ranked competitor to take their place.
 - 9q+) [建議] 每一個比賽項目及每一輪應該至少要有2名參賽者。
 - 9t+) [解釋] 根據[規則 9t1](regulations:regulation:9t1)及[規則 9t2](regulations:regulation:9t2)，該輪可能會變成不符合[規則 9p1](regulations:regulation:9p1)、[規則 9m1](regulations:regulation:9m1)、[規則 9m2](regulations:regulation:9m2)或是[規則 9m3](regulations:regulation:9m3)。但是，為了符合這些規則而去更改成績相關內容的話，會影響無辜的參賽者，這也是成績必須維持原樣的原因。
 - 9t++) [附加] 如果是在比賽中進行修改成績的話，仍要遵守這項規定。若是在比賽中的話，[規則 9t1](regulations:regulation:9t1)、[規則 9t2](regulations:regulation:9t2)和[規則 9t3](regulations:regulation:9t3)應該要被遵守，由WCA代表決定。
 - 9t3+) [舉例] 假設在某項目的第一輪時參賽者A取得了平均 10.00 的成績，而參賽者B取得了平均 10.05 的成績，使得參賽者A進入了決賽，而參賽者B沒有進入決賽。如果事後發現有成績紀錄錯誤，參賽者B的成績其實是平均 9.95（參賽者B應該晉級決賽，而不是參賽者A晉級），則參賽者A決賽的成績仍需要被保留下來。
-- 9u+) [附加] 有多個地點同時舉行的比賽（例如：「多個地點的最少步數解」），必須要所有地點都達成這項條件才能算是比賽結束。
+- 9u+) [附加] 有多個地點同時舉行的比賽（即：「多個地點的最少步數解」），必須要所有地點都達成這項條件才能算是比賽結束。
 - 9u2+) [建議] WCA代表應該要宣布比賽結束（例如：頒獎典禮之前）。
 - 9u2b+) [附加] 比賽結束的日期由比賽舉辦地的當地時間來決定。
 
