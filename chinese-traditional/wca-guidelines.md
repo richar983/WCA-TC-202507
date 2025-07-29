@@ -238,11 +238,6 @@
 - E3d++) [釐清] 參賽者不應該把個人的碼錶或手錶上的時間作為正確時間，且必須在裁判說「停止」後馬上提交解法。
 
 
-## <article-F><clock><clocksolving> 附則 F：Clock魔錶
-
-- F1+) [提醒] 在過去，參賽者要把Clock魔錶以站立的方式擺在墊子上。現在已經沒有要求要這樣做。
-
-
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 附則 H：多顆盲解
 
 - H1+) [附加] 如果在還原過程中（翻譯備註：記憶階段），發現有轉亂重複的方塊。該方塊可以使用不同的轉亂內容重新轉亂，由WCA代表決定。
