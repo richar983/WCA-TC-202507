@@ -508,12 +508,14 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - E2a1) 在還原還未開始前，參賽者禁止在跟這次還原有關的紙張上寫下任何東西。例外：參賽者可以寫下關於參賽者身分的訊息(詳見[附則 E2c1](regulations:regulation:E2c1))。如果參賽者是寫在有轉亂步驟的紙上，參賽者必須只能寫在背面。處罰：判定該次還原未完成（DNF）。
     - E2b) 所有參賽者有60分鐘的時間限制來找出並寫下解法。
         - E2b1) 裁判應該在55分鐘時告知參賽者「剩五分鐘(5 minutes remaining)」，以及在60分鐘時喊「停(Stop)」。
-    - E2c) 在60分鐘結束後，參賽者必須交出清楚寫下解法及參賽者身分訊息的紙張，且使用合適轉動代號。
-        - E2c1) 用來確認參賽者身分的訊息是指：參賽者的名字、WCA ID、或是比賽註冊ID（至少要有一個），也可加上比賽名稱、第幾輪、或第幾次還原。沒有寫下參賽者的名字、WCA ID，或是比賽註冊ID的處罰：判定該次還原未完成（DNF）。
-        - E2c2) 解法必須是將每個單獨的移動步驟，按照順序依序寫出所組成的一串序列。解法模糊不清的處罰：判定該次還原未完成（DNF）。
-        - E2c3) 參賽者應該要將紙上不屬於解法一部分的符號或標記清楚地塗黑或塗掉。
-        - E2c4) 參賽者必須只能使用在[規則 12a](regulations:regulation:12a)中所規定的3x3x3轉動代號，且禁止使用其他沒有在該規則中定義的符號或符號組合。處罰：判定該次還原未完成（DNF）。
-        - E2c5) 使用一顆完成狀態的方塊並按照轉亂步驟轉亂，再使用參賽者提交的解法來解方塊並且確實成為完成狀態，那便能判斷參賽者的解法是正確的。不正確解法的處罰：判定該次還原未完成（DNF）。
+    - E2c) 在60分鐘結束後，參賽者必須交出清楚寫下解法及參賽者身分訊息的紙張，且使用合適轉動代號。 The competitor's solution is considered correct if starting with a solved puzzle and applying the scramble sequence followed by the solution results in a solved puzzle. Penalty for an incorrect solution: disqualification of the attempt (DNF).
+        - E2c1) 用來確認參賽者身分的訊息是指：參賽者的名字、WCA ID、或是比賽註冊ID（至少要有一個），也可加上比賽名稱、第幾輪、或第幾次還原。沒有寫下參賽者的名字、WCA ID，或是比賽註冊ID的處罰：判定該次還原未完成（DNF）。 Information to identify the attempt may be added by the competitor after the attempt has been submitted but before the end of the competition, at the discretion of the WCA Delegate and under the direct supervision of a judge. The competitor must not write anything after the time limit without the judge's supervision and must not make any changes to the solution. Penalty: disqualification of the attempt (DNF).
+        - E2c2) The solution must be an unambiguous sequence of moves with each move written out in sequential order. Penalty for an ambiguous solution: disqualification of the attempt (DNF).
+        - E2c3) The competitor should make it clear which moves are intended to be part of their solution, by clearly blacking out/scribbling out any moves to exclude, or by drawing a single outline around their solution.
+        - E2c4) Only numbers, letters, and apostrophes are considered as part of a competitor’s solution. Other symbols are disregarded. The remaining solution must only use moves that are exactly defined as notation for the 3x3x3 Cube in [Regulation 12a](regulations:regulation:12a). Penalty: disqualification of the attempt (DNF).
+        - E2c6) If a competitor used incorrect capitalization for a move defined in [Regulation 12a](regulations:regulation:12a), it should be interpreted as if it has the correct capitalization and accepted as valid notation.
+        - E2c7) Any writing or other markings on the solution sheet which are clearly not a part of the competitor's intended solution may be disregarded, at the discretion of the judge.
+        - E2c8) Competitors must not intentionally make their solution harder to judge by using moves or symbols not defined as notation for the 3x3x3 Cube, incorrect capitalization, or by any other means. Penalty: disqualification of the attempt (DNF) at the discretion of the WCA Delegate.
     - E2d) 解法的步數將以「外層轉動計數(OBTM)」(參見[規則 12a](regulations:regulation:12a))來計算。
         - E2d1) 當用「執行轉動記數(ETM)」計算時，每位參賽者的解法長度禁止超過80步（包含整顆方塊轉動）(參見[規則 12a6](regulations:regulation:12a6))。處罰：判定該次還原未完成（DNF）。
     - E2e) 參賽者寫出的解法不能由題目上的轉亂步驟的任何一部分衍生而來。處罰：判定該次還原未完成（DNF），由WCA代表決定。
@@ -527,7 +529,10 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - E3f) 能移除寫下內容的物品（自行準備），例如修正液、修正帶或是橡皮擦。
 - E4) WCA代表可以選擇公開參賽者的解法（例如：成績單的照片，或是抄錄下的解法）。
 - E5) 參賽者禁止與WCA代表或裁判以外的人進行交流。交流的內容應該要關於WCA競賽規則，且參賽者不得從中獲得解法的協助。處罰：判定該次還原未完成（DNF）。
-
+- E6) A competitor may join a 3x3x3 Fewest Moves attempt that is already in progress, at the discretion of the WCA Delegate. Exception: a competitor must not be permitted to join an ongoing attempt in the following cases:
+    - E6a) A competitor has finished their attempt already (see [Guideline E2b+](guidelines:guideline:E2b+)).
+    - E6b) The attempt takes place in a competition with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions").
+    - E6c) There is any risk that information about the scramble may have become known to the competitor who wishes to join.
 
 ## <article-F><clock><clocksolving> 附則 F：Clock魔錶
 
