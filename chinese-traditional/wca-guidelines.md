@@ -1,6 +1,6 @@
 # <wca-title>WCA 指導方針
 
-<version>版本：2024年1月1日
+<version>版本：2025年1月1日
 
 
 ## 註釋
@@ -37,9 +37,7 @@
 - 1h+) [建議] 同一組別的參賽者，應該要使用同樣的轉亂步驟。不同組別應該要使用不同的轉亂步驟。
 - 1h++) [建議] 每個比賽項目的決賽以及每一輪的最少步數解都應該要讓所有參賽者使用相同的轉亂步驟（也就是只能有一組）。
 - 1h+++) [附加] 在WCA代表的同意下，參賽者可以要求在同一輪比賽中參加不同時間的組別。WCA代表應該謹慎考慮該要求對比賽的公平性與實施的可行性，且必須要確保這個更動有符合[規則 9l](regulations:regulation:9l)（也就是該參賽者必須要在同一項目的前一輪全部結束且下一輪還未開始以前結束還原）。有此需求的參賽者應該要在比賽前聯絡主辦團隊和WCA代表。例外：最少步數解不能使用這個安排因為 [指導方針 E2b++](guidelines:guideline:E2b++)中有獨自的安排方式。
-- 1h1+) [釐清] 只有在為了比賽順利進行時，才應該讓轉亂員或裁判幫跟自己同一組的參賽者做轉亂或當裁判。
-- 1h1++) [釐清] 最少步數解比賽時，裁判可以在他未完成還原之前判同組參賽者（也就是裁判自己同時也在比賽）。
-
+- 1h1a+) [CLARIFICATION] Judges who are competing in a 3x3x3 Fewest Moves attempt they are judging must not begin grading attempts until they have finished their own attempt. They may begin grading before the end of the 60 minutes if they have submitted their attempt early (see [Guideline E2b+](guidelines:guideline:E2b+)). They should get another judge to grade their own attempt.
 
 ## <article-2><competitors><competitors> 章節 2：參賽者
 
