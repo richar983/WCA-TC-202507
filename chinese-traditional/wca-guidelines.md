@@ -165,7 +165,7 @@
 ## <article-12><notation><notation> 章節 12：轉動代號
 
 - 12a2+) [釐清] 例如：對於3x3x3而言，Rw和2Rw都是有效的轉動方式。1Rw對於所有立方體方塊而言都是無效的轉動代號，3Rw對2x2x2方塊和3x3x3方塊是無效的轉動代號（但對於4x4x4或以上的方塊，3Rw是有效的轉動代號）。
-- 12g2+) [提醒] 在過去，觀察階段改變按鈕狀態會被判定該次還原未完成。但現在已不是這樣了。
+- 12g3+) [REMINDER] As clock scramble sequences end with an X+ or X- move, all pins are pushed down once the scramble sequence has been fully applied.
 - 12i+) [釐清] 整顆方塊轉動並不改變方塊的狀態。
 
 
