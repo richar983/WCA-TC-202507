@@ -160,7 +160,11 @@
 - 11e1+) [提醒] 額外的還原機會必須要有新轉亂步驟，且必須要是官方轉亂程式產生並且無修改的轉亂步驟。(參見[規則 4f](regulations:regulation:4f)和[指導方針 4f+](guidelines:guideline:4f+))
 - 11e2+) [附加] 如果某次額外的還原機會又造成另一次額外的還原機會，參賽者應該持續還原，直到產生可以代替原來常規還原的有效還原。
 - 11e2++) [舉例] 假設正常的5次還原當中，第2次產生了額外的還原機會。參賽者應進行額外的還原機會直到產生一個可以替代第2次的有效還原。假設之後其他還原又造成額外的還原機會，則參賽者應以類似第2次方式進行處裡。
-
+- 11f1+) [RECOMMENDATION] The WCA Regulations Committee should be consulted if slow-motion or frame-by-frame analysis are required.
+- 11i1+) [RECOMMENDATION] Competitors expected to meet these criteria should have their scrambles checked by a second scrambler before being sent out (see [Guideline 4g+](guidelines:guideline:4g+)).
+- 11i2+) [RECOMMENDATION] If the WCA Delegate is unsure whether or not the incorrect scramble provided a significantly less fair outcome than the original scramble, a provisional extra attempt should be granted.
+- 11i2++) [REMINDER] Although individual results achieved on incorrectly scrambled puzzles may be allowed to stand, the WCA Delegate must ensure that incorrect scrambles do not become common.
+- 11j3+) [REMINDER] The scramble sequence used for the extra attempt must not be obtained from a previous group.
 
 ## <article-12><notation><notation> 章節 12：轉動代號
 
