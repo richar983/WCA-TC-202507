@@ -68,28 +68,30 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 2a3) 沒有被WCA禁賽。
     - 2a4) 遵守所有WCA代表認為必要的安全對策，這些安全對策必須要在比賽前清楚地宣布。
 - 2b) 未滿18歲的參賽者要經過家長或監護人的同意才能報名並比賽。
-- 2c) 參賽者報名時要提供所有主辦團隊要求的資料（包括：姓名、代表的區域、出生日、性別、聯絡資訊、欲參加的項目）。
+- 2c) 參賽者報名時要提供所有主辦團隊要求的資料（包括：姓名、country、出生日、性別、聯絡資訊、欲參加的項目）。
     - 2c1) 如果參賽者未完成有效的報名，將無法取得參賽的資格，取決於主辦團隊和WCA代表。
-    - 2c2) 非首次參賽的參賽者，必須要提供和WCA個人檔案相符的個人資訊。如果參賽者希望在兩場比賽之間更改或更新個人資訊（例如：更改代表的區域、姓名或性別），參賽者必須經由WCA代表或是直接[聯絡WCA成績組](https://www.worldcubeassociation.org/contact/website)。
-- 2d) 參賽者的姓名、代表的區域、性別、和比賽成績視為公開資料。其餘所有個人資料皆被視為保密資料，且必須在取得參賽者同意後才能將資料提供給第三方組織或個人。
-- 2e) 參賽者必須代表一個他擁有公民權的區域。WCA代表應該要在該參賽者的第一場比賽以文件（例如：護照）方式確認其公民權。如果參賽者被發現無法合法代表他報名資訊中的區域，參賽者可以被事後判決失去資格和/或禁賽，由WCA董事會決定。
-    - 2e1) 有效的可代表的區域定義如下[WCA List of Recognized Countries(WCA認可區域清單)](https://www.worldcubeassociation.org/regulations/countries/)。
-    - 2e2) 參賽者只可以在該年度的第一場比賽當中或之前更改代表的區域。
-    	- 2e2a) 例外：如果參賽者喪失了之前所代表的區域的公民權，他們必須在下一場比賽當中或之前更改代表的區域。(參見[規則 2c2](regulations:regulation:2c2))
-     	- 2e2b) 例外：如果參賽者在該年度內取得新區域的公民權，他們可以依照新的公民權區域在不同的比賽之間隨時更改代表的區域。
+    - 2c2) 非首次參賽的參賽者，必須要提供和WCA個人檔案相符的個人資訊。如果參賽者希望在兩場比賽之間更改或更新個人資訊（例如：更改country、姓名或性別），參賽者必須經由WCA代表或是直接[聯絡WCA成績組](https://www.worldcubeassociation.org/contact?contactRecipient=wrt)。
+- 2d) 參賽者的姓名、country、性別、和比賽成績視為公開資料。其餘所有個人資料皆被視為保密資料，且必須在取得參賽者同意後才能將資料提供給第三方組織或個人。
+- 2e) 參賽者必須代表一個他擁有公民權的country。WCA代表應該要在該參賽者的第一場比賽以文件 or photos of documents（例如：護照）方式確認其公民權。如果參賽者被發現無法合法代表他報名資訊中的country，參賽者可以被事後判決失去資格和/或禁賽，由WCA董事會決定。
+    - 2e1) 有效的可代表的countries定義如下[WCA List of Recognized Countries(WCA認可countries清單)](https://www.worldcubeassociation.org/regulations/countries/)。
+    - 2e2) Competitors may change their country at any point between competitions (see [Regulation 2c2](regulations:regulation:2c2)), as long as it has been at least one year since any previous change.
+    	- 2e2a) 例外：如果參賽者喪失了之前所代表的country的公民權，他們必須在下一場比賽當中或之前更改代表的country。(參見[規則 2c2](regulations:regulation:2c2))
+     	- 2e2b) 例外：如果參賽者在該年度內取得新country的公民權，他們可以依照新的公民權區域在不同的比賽之間隨時更改代表的country。
     - 2e3) 沒有公民身份的參賽者可以以「無國籍」的方式參賽。
 - 2f) 參賽者必須要遵守比賽場地的規範，且要保持應有的自律。
 - 2g) 當參賽者位在規劃的比賽區域中時必須要保持安靜。交談是允許的，但必須保持在合理的音量內且要與其他正在比賽的人保持距離。
-    - 2g3) 進行中組別的參賽者禁止和同組的參賽者交流該組的方塊轉亂狀態，除非討論的參賽者皆無後續的還原機會。處罰：判定該名參賽者於該項目失去比賽資格，由WCA代表決定。例外：最少步數解中，已經完成的參賽者，可以跟沒有參加該次最少步數解的人分享轉亂內容。
+    - 2g3) Competitors in a group in progress must not communicate with other competitors in the group about the scrambled states of the group, unless all such competitors are not eligible for any further attempts in the group. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate. Exception: For 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, competitors that have finished their attempt may share and discuss the scramble sequence(s) with other competitors in the group who have either finished their attempt or declined their attempt.
+        - 2g3a) For rounds where results are being entered live, the organization team may enforce that competitors are not permitted to view the results entered from their group until they have completed their attempts.
 - 2h) 參賽者在比賽會場內必須要穿著適宜的衣著。WCA代表可以判定不適宜服裝的參賽者失去比賽資格。
-- 2i) 在觀察或是解方塊時，除了Stackmat計時器和碼錶以外，參賽者禁止使用電子或聲音器材（例如：行動電話、隨身聽、錄音裝置或額外的照明設備）。處罰：判定該次還原未完成（DNF）。
+- 2i) 在觀察或是解方塊時，除了Stackmat計時器和碼錶以外，參賽者禁止使用電子（例如：行動電話、ear buds、錄音裝置或額外的照明設備）。處罰：判定該次還原未完成（DNF）。 Any item which has any electronic component is considered electronic.
     - 2i1) 參賽者可以使用不會有不公平得利的非電子輔助裝置，由WCA代表決定。包括：
         - 2i1a) 穿戴式的醫療／身體輔助儀器（例如：眼鏡、支撐護腕）。作為[規則 2i](regulations:regulation:2i)的例外，如果參賽者沒有舒適的非電子替代品（例如：助聽器或心律調節器），醫療輔助設備可以是電子設備。
         - 2i1b) 耳塞及隔音耳罩（但不能是電子耳機和耳道式耳機）。
-        - 2i1c) 手用暖暖包。
+        - 2i1c) Non-electronic hand warmers.
         - 2i1d) 食物和飲料。
-    - 2i2) 參賽者可以在還原區域使用相機，但必須從開始還原到結束還原的過程中遵守以下規定，由WCA代表決定。未遵守規定之處罰：判定該次還原未完成（DNF）。
-        - 2i2a) 相機的螢幕必須是空白的，或是在參賽者的視線之外。(參見[規則 A5b](regulations:regulation:A5b))
+    - 2i2) Competitors may use cameras and/or microphones at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the start of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
+        - 2i2a) Each camera monitor must be blank or out of sight of the competitor. Exception: if a visible active monitor is discovered, completed attempts need not be disqualified if the competitor did not receive assistance from the monitor, at the discretion of the WCA Delegate (see [Regulation A5b](regulations:regulation:A5b)), however the competitor must not be permitted to perform any further attempts with such a monitor.
+        - 2i2c) The competitor must not press any buttons on these devices (e.g. for starting or stopping a recording).
     - 2i4) 參賽者應該要關掉所有行動裝置的通知功能，以避免影響比賽。
 - 2j) WCA代表可以判定某位參賽者於某幾次還原或是某個比賽項目中失去比賽資格。
     - 2j1) 如果該名參賽者在該項目失去比賽資格，他不能夠繼續在該項目中獲得還原機會。
@@ -107,7 +109,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - 2l) 依據犯規的嚴重程度，可以先行警告或是直接判定失去比賽資格。
     - 2l1) 被判定失去比賽資格的參賽者不具有比賽相關費用的退費資格。
 - 2n) 參賽者可以用口頭的方式向WCA代表抗議爭議判決。
-    - 2n1) 抗議只能在該場比賽期間提出，並且需要在爭議事件發生後的30分鐘內或是該比賽項目下一輪開始前。(參見[規則 9u](regulations:regulation:9u))
+    - 2n1) 抗議只能在該場比賽期間提出，並且需要在爭議事件發生後的30分鐘內 and 是該比賽項目下一輪開始前。(參見[規則 9u](regulations:regulation:9u))
     - 2n2) WCA代表必須要在該項目下一輪比賽開始前解決爭議判決。
     - 2n3) 參賽者必須接受WCA代表所做出的最後判決。處罰：取消比賽資格。
 - 2s) 有特殊狀況（例如：身心障礙）的參賽者無法遵守一條或多條WCA競賽規則時，可以向WCA代表請求特別協助。有此需求的參賽者應該要在比賽開始前至少兩週聯絡主辦團隊和WCA代表。
