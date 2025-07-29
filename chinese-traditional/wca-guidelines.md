@@ -166,6 +166,7 @@
 - 11i2++) [REMINDER] Although individual results achieved on incorrectly scrambled puzzles may be allowed to stand, the WCA Delegate must ensure that incorrect scrambles do not become common.
 - 11j3+) [REMINDER] The scramble sequence used for the extra attempt must not be obtained from a previous group.
 
+
 ## <article-12><notation><notation> 章節 12：轉動代號
 
 - 12a2+) [釐清] 例如：對於3x3x3而言，Rw和2Rw都是有效的轉動方式。1Rw對於所有立方體方塊而言都是無效的轉動代號，3Rw對2x2x2方塊和3x3x3方塊是無效的轉動代號（但對於4x4x4或以上的方塊，3Rw是有效的轉動代號）。
