@@ -43,7 +43,6 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - 1a) 一場比賽必須至少要有一位WCA代表和一個主辦團隊（由一至多個成員組成），以及工作人員包括裁判、轉亂員及成績紀錄員。
 - 1b) 主辦團隊必須負責比賽前、比賽中及比賽後的事務。
 - 1c) WCA代表是負責確保比賽符合WCA競賽規則及其他WCA的政策與需求。WCA代表可以指派主辦團隊中的成員替WCA代表執行特定責任，但WCA代表仍要負責最後的執行成果。
-    - 1c1) WCA代表必須要確保比賽遵照 [WCA 轉亂責任政策] (https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf)。
 - 1e) 每一個比賽項目必須要有一名或多名裁判。
     - 1e1) 裁判需要負責執行比賽項目的流程。
         - 1e1a) 在WCA代表的同意下，裁判可以同時判決多名參賽者，只要裁判有辦法確保WCA競賽規則隨時都被遵守。
@@ -55,7 +54,9 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 1g1) 成績紀錄員要負責彙整輸入比賽成績。
     - 1g2) 成績單內容上的任何更改，必須要經過WCA代表同意。
 - 1h) 同一輪的參賽者可以被分成一組或若干組。
-    - 1h1) 在尚未完成自己的比賽前，轉亂員及裁判不應該替跟與自己同一輪的參賽者做轉亂或判決，除非WCA代表同意。但不管如何，主辦團隊必須確認他們無法看到自己尚未比賽的轉亂步驟。(參見[規則 4b2](regulations:regulation:4b2))
+    - 1h1) Scramblers and judges for a round must not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. The following exceptions apply:
+        - 1h1a) For 3x3x3 Fewest Moves, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
+        - 1h1b) For 3x3x3 Multi-Blind, competitors may judge other competitors in their own group after they have finished their attempt.
 - 1j) 所有工作人員都可以參賽。
 - 1k) 工作人員可以身兼多職（例如：主辦團隊、WCA代表、裁判、成績紀錄員、轉亂員）。
 
