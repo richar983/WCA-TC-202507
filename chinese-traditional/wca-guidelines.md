@@ -111,6 +111,7 @@
 - 5b5f+) [舉例] 可參考[規則 5b5f](regulations:regulation:5b5f)的[視覺指南](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) (暫無翻譯)。
 - 5b5f++) [舉例] 4x4x4一個邊塊在原位旋轉視為還原完成。
 - 5b5f+++) [舉例] 一個被原位旋轉影響的角塊可視為處於正確的位置，但處於正確位置並不代表還原完成。
+- 5b5f++++) [CLARIFICATION] If there are multiple pieces partially detached or not fully placed, their final position is assessed one at a time. The piece that is closest to an open position is assessed first, and is then considered to occupy that position. This process is repeated until all partially detached or not fully placed pieces have been assessed.
 - 5c+) [提醒] 方塊發生故障不能作為參賽者獲得額外還原機會的理由。
 
 
