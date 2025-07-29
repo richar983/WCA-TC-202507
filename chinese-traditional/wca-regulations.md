@@ -120,7 +120,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 
 ## <article-3><puzzles><puzzles> 章節 3：方塊
 
-- 3a) 參賽者必須自己準備方塊來參賽。
+- 3a) Competitors are responsible for providing their puzzles for the competition.
     - 3a1) 當參賽者在該輪比賽被唱名時，他必須要在場並繳交方塊。(參見[規則 2u](regulations:regulation:2u))
     - 3a2) 方塊必須要能正常使用，以便被正常轉亂。
     - 3a3) 方塊的配色必須是方塊解完時，一面只有一個顏色，且一個顏色只用在一面。若方塊並非原始設計結構的方塊，該方塊必須和原始設計結構擁有同樣轉動方式、相同狀態、相同解法。
