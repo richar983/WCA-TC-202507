@@ -180,10 +180,13 @@
 - A1a2++++++) [釐清] 如果一個累積時間限制是多個比賽項目合計，還原完成的順序決定時間累積的順序。
 - A1a3+) [提醒] 主辦團隊和WCA代表必須要留意，在該輪比賽開始後更動時間限制會影響參賽者的比賽策略並對某些參賽者造成不公平。（例如：前兩次以最快速度還原方塊以求達到門檻制的時間限制）
 - A1a4+) [提醒] 如果參賽者意外地被允許超過時間限制，時間限制仍必須要回復執行，且裁判、參賽者和WCA代表應該要被告知。(參見[規則 1g2](regulations:regulation:1g2)) 裁判必須要一直注意該次還原的時間限制（假設採用累積時間限制，有可能會因前次還原而有所變動）。
+- A2a3+) [REMINDER] Competitors should not be permitted to view the scramble sequences for their own group even after having completed all their attempts, unless permission has been granted by the WCA Delegate (see [Guideline 4b2+](guidelines:guideline:4b2+)).
 - A2c1+) [提醒] 在過去，成績單被用來覆蓋方塊且會讓某些面外露。現在不允許這樣做。
+- A2c2+) [REMINDER] If the competitor accidentally views a scramble they have not yet received, the competitor must not receive that scramble for their own attempt and an extra attempt must be granted instead.
 - A2d1+) [附加] 如果在還原尚未開始時發現沒有轉亂簽名，方塊應該要立刻交還轉亂員來確認轉亂內容並且簽名。（翻譯註解：在裁判尚未詢問「準備好了嗎？(Ready?)」之前）
-- A2d1++) [附加] 只因為沒有轉亂簽名而判一個還原成績無效是被禁止的。如果在還原開始後才發現沒有轉亂簽名，裁判必須要讓還原繼續進行（如果還在進行中）且WCA代表應該要讓成績保留納入計算。但是，如果WCA代表有理由（無轉亂簽名以外）懷疑轉亂是無效的，WCA代表可以用額外的還原機會來取代該次還原。
+- A2d1++) [附加] 只因為沒有轉亂簽名而判一個還原成績無效是被禁止的。如果在還原開始後才發現沒有轉亂簽名，裁判必須要讓還原繼續進行（如果還在進行中）且WCA代表應該要讓成績保留納入計算。
 - A2d1+++) [提醒] 雖然WCA代表可以讓一些沒有轉亂簽名的成績加入成績計算，WCA代表不應該讓這種意外事件成為常態。
+- A3c1+) [CLARIFICATION] For Clock, the competitor may change the state of the pins during inspection (see [Regulation 12i1](regulations:regulation:12i1)).
 - A3c3+) [釐清] 雖然裁判被要求替參賽者將計時器歸零，但如果裁判忘了，參賽者可以在觀察前或觀察中自行將計時器歸零。(參見[規則 A3b](regulations:regulation:A3b))在裁判沒有將計時器歸零的情況下，如果參賽者不慎試圖開始還原（也就是說，當參賽者進行觀察，然後雙手放在Stackmat計時器上並維持了一段合理的時間，認為計時器會正常啟動，然後開始還原方塊），則該次還原應該給予額外的還原機會，由WCA代表決定。
 - A3c3++) [釐清] 參賽者不可以在觀察的過程中「測試」或「二次啟動」計時器，因為只要計時器啟動，就算是觀察結束。(參見[規則 A4d](regulations:regulation:A4d))就算還在觀察開始後的15秒以內，如果參賽者在第一次啟動計時器後停止了計時器，就視為還原結束。(參見[規則 A6](regulations:regulation:A6))
 - A3c4+) [釐清] 若在方塊中卡小物體的規則被執行了，裁判禁止替參賽者取下該物體。
@@ -193,9 +196,14 @@
 - A5b+) [釐清] 在觀察或還原過程當中，參賽者可以用身體的任何部位碰觸方塊。例外：3x3x3單手解。(參見[規則 C1b](regulations:regulation:C1b))
 - A5b++) [釐清] 如果參賽者的方塊發生方塊零件彈出或分離(參見[規則 5a](regulations:regulation:5a))，參賽者禁止尋求協助尋找或協助撿回零件，且裁判應該要防止他人的幫忙。如果有人替參賽者撿起了彈出的零件，裁判或參賽者可以要求他們把零件放置在比賽桌面上且不能再繼續幫忙。
 - A5b+++) [釐清] WCA代表不應該給予額外的還原機會單純只因為有人替參賽者撿起了彈出或分離的零件。
-- A6b+) [解釋] 刻意地選擇了0.06秒是為了容納Stackmat計時器的故障。
+- A6b1+) [解釋] 刻意地選擇了0.06秒是為了容納Stackmat計時器的故障。
 - A6e+) [釐清] 如果方塊在參賽者停止計時器之後掉落在大腿上，則被判定為觸碰方塊。
+- A6e++) [CLARIFICATION] If [Regulation A6c](regulations:regulation:A6c) is used to penalize an attempt, the penalties in [Regulation A6e](regulations:regulation:A6e) should only be applied if the competitor releases the puzzle and touches it again before the judge inspects it.
 - A7c+) [附加] 如果某個參賽者簽過名的成績記錄不完整或不可辨認，則應該選擇最壞的狀況作解讀（例如：「1:05」應記錄為 1:05.99，「25.X3」中如果 X 可能是 1 或 7，則記錄為 25.73）。有鑑於Stackmat計時器會把 X:0Y.ss 顯示為 X:Y.ss，缺少位數的的成績通常為十位數而非個位數，（例如：「1:2.27」應記錄為 1:02.27）。對於模糊不清的成績，可以尋找簽名的裁判來重新確認，由成績紀錄員決定。
+- A7c6+) [EXAMPLE] Examples of signatures that identify the competitor: Name, initials, WCA ID, competition registrant ID, a reasonable nickname.
+- A7c6++) [EXPLANATION] A competition registrant ID is an identifier (e.g. a number) assigned to a competitor for the competition. Some competitions use this to keep track of score sheets and enter results.
+- A7c6+++) [RECOMMENDATION] The organization team may request competitors to sign with one particular method of identification (e.g. competition registrant ID), but competitors should not be disqualified for using a different method when signing.
+- A7c6++++) [ADDITION] Competitors should use the same signature when they are judging and/or scrambling at the competition.
 - A7g+) [舉例] 比賽經驗不足的參賽者可以因為以下情況獲得額外的還原機會：沒有等到計時器綠燈亮、不正確地啟動或停止計時器、由於不知道如何開始還原導致超過觀察時間、或其他有關還原流程的處罰。
 - A7g++) [釐清] 不能直接免除處罰，必須給予額外的還原機會。
 - A7g+++) [建議] WCA代表在給予同一位參賽者兩次以上額外還原機會時必須更謹慎。即便給予兩次以上還原機會，這兩次還原機會也得是因為不同類型的意外事件。
