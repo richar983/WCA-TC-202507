@@ -80,12 +80,13 @@
 - 3h++) [舉例] 改造舉例：產生新的轉動方式、無法做一般的轉動方式、可以看見更多區域或面、可以看到背面的顏色、能夠自動轉動或是創造其他的還原狀態。
 - 3h2++) [釐清] 如果某種「六色方塊」和現在大量生產的「六色方塊」有明顯差異，需要由WCA代表同意是否可以使用。
 - 3h2a+) [附加] 無法得知更多方塊狀態的透明零件的例子：方塊內部的零件，透明的魔錶Clock外殼。
+- 3h4+) [CLARIFICATION] For Clock, visual modifications that enhance the ability to determine the orientation of the puzzle are permitted, as traditional puzzle designs already provide this information.
 - 3j++) [舉例] 可參考[規則 3j](regulations:regulation:3j)的視覺指南 [視覺指南](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view)(暫無翻譯)。
 - 3k2+) [附加] 如果WCA代表認為參賽者是故意使用違規方塊，WCA代表不應該列出不得使用的方塊清單。
 - 3k2b+) [釐清] 如果在多顆盲解的還原過程中，發現有違規方塊，禁止交換或是移除該顆方塊。如果整個該次還原沒有被判失格的話，必須把違規的方塊判為未解完成。
 - 3k2b++) [舉例] 參賽者多顆盲解嘗試了10顆，最後成功還原了8顆。如果發現有兩顆還原成功方塊和一顆未還原成功方塊是違規方塊，則參賽者將被判定在嘗試的10顆中成功還原6顆（而不是DNF），由WCA代表決定。
 - 3l+) [附加] Logo可以任意設計，但不能給還原帶來明顯的優勢（例如：可以用於作弊的編碼訊號），且原有有色部分的顏色必須依然可以被辨認。非傳統的logo是否允許使用由WCA代表決定。
-- 3l++) [釐清] 在過去，帶有logo的方塊被允許用於盲解項目。現在已經被禁止了。
+- 3l++) [CLARIFICATION] Logos are permitted for 3x3x3 Blindfolded, but not any other blindfolded events, including 3x3x3 Multi-Blind.
 - 3l1+) [釐清] 在N階的方塊中，所有單色塊都被視為中心塊。例如5x5x5每一面的中心塊有9個。
 
 
