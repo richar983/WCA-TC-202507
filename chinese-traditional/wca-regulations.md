@@ -375,7 +375,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 12h2) 順時鐘120度：R（可見部分右下方最遠的角）、U（可見部分上方最遠的角）、L（可見部分左下方最遠的角）、B（在背後不可見的最遠的角）。
     - 12h3) 逆時鐘120度：R'（可見部分右下方最遠的角）、U'（可見部分上方最遠的角）、L'（可見部分左下方最遠的角）、B'（在背後不可見的最遠的角）。
 - 12i) 定義：1步，用以上轉動代號造成方塊狀態的改變，包含超過[規則 10f](regulations:regulation:10f)所描述的未對齊。
-
+    - 12i1) Exception: For Clock, only changes in the position of the inner clock faces are considered to be moves. Changes to the state of the pins are not considered to be moves.
 
 ## <article-A><speedsolving><speedsolving> 附則 A：速解
 
