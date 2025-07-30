@@ -326,9 +326,33 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 11e1) 如果某參賽者獲得額外的還原機會，該次還原必須使用不一樣的轉亂步驟。該轉亂步驟必須由目前最新版本的官方轉亂程式產生。(參見[規則 4f](regulations:regulation:4f))
     - 11e2) 如果某參賽者獲得額外的還原機會，應該在受影響的那次還原後立即執行，且其結果必須替代導致額外還原機會的那次成績。
     - 11e3) 如果尚未確定某意外事件是否應給予額外的還原機會，參賽者可以先獲得臨時的額外還原機會。等最終判決出來後再確定是否採用這次額外還原機會的成績（例如：WCA規則委員會的判決）。
-- 11f) 對於意外事件所做的決定，WCA代表可以依據影片或照片的分析來做判斷。
+- 11f) Decisions about an incident may be supported with video, photographic, or audio evidence, at the discretion of the WCA Delegate.
+    - 11f1) Video, and similar forms of recorded evidence, should be reviewed in real time. Exception: slow-motion or frame-by-frame analysis may be used in the following circumstances:
+        - 11f1a) The individual result is a regional record or a personal record in the top 50 results of the world rankings.
+        - 11f1b) The average or mean the result is a part of is a regional record or a personal record in the top 50 results of the world rankings.
+        - 11f1c) The result is achieved in a final round of a National Championship, Continental Championship or World Championship.
+        - 11f1d) To support the removal of any penalty originally assessed by the judge or WCA Delegate see [Regulation 11f2a](regulations:regulation:11f2a).
+    - 11f2) Evidence obtained from slow-motion or frame-by-frame analysis may only be used to support the following decisions:
+        - 11f2a) The removal of any penalty originally assessed by the judge or WCA Delegate.
+        - 11f2b) The application of a penalty according to [Regulation A3c1](regulations:regulation:A3c1), [Regulation A4b](regulations:regulation:A4b), or [Regulation A4b1](regulations:regulation:A4b1).
+        - 11f2c) To investigate cheating (see [Regulation 2k](regulations:regulation:2k)).
 - 11g) WCA代表必須確保比賽時，有能讓工作人員或參賽者用來查閱的競賽規則和指導方針（例如：印刷紙本，電子檔，或經由網路查詢）。
 - 11h) 在考慮情況嚴重性以及最佳的處理辦法後，WCA代表可以要求嚴重違反[規則 2k3](regulations:regulation:2k3)的參賽者離開比賽場館。如果參賽者拒絕離開，WCA可以對參賽者採取紀律處分。
+- 11i) If it is found that a competitor's puzzle was not scrambled correctly after they have completed their solve, the following regulations apply:
+    - 11i1) In the following cases, an extra attempt must be granted to replace the affected attempt. If no extra attempt is granted, the result will be considered DNS:
+        - 11i1a) The individual result is a regional record, or is a personal record in the top 50 competitors of the world rankings.
+        - 11i1b) The average or mean the result is a part of is a regional record, or part of a personal record in the top 50 competitors of the world rankings.
+        - 11i1c) The result is achieved in a final round of a National Championship, Continental Championship or World Championship.
+        - 11i1d) The result was achieved by solving the puzzle in fewer moves than the limits defined in [Regulation 4b3](regulations:regulation:4b3).
+        - 11i1e) Exception: For 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Megaminx, and 3x3x3 Multi-Blind, an extra attempt is not necessary to be granted under the circumstances described above.
+    - 11i2) For all other cases, the result may stand. Exception: the WCA Delegate may grant an extra attempt at their discretion if they believe this provides a significantly fairer outcome (e.g. the incorrect scramble received was extremely easy and the competitor achieved a new personal record, the incorrect scramble impacted the podium for an event, or the puzzle was deliberately scrambled incorrectly).
+        - 11i2a) If an extra attempt would produce a significantly more fair outcome, the original attempt is considered invalid (see [Regulation 9l](regulations:regulation:9l)).
+        - 11i2b) If an extra attempt cannot be awarded for an incorrect scramble leading to a significantly unfair outcome (for example, because the incorrect scramble is discovered after the competition) the result will be considered DNS.
+- 11j) If a competitor incorrectly receives a scramble that they have already received (i.e. a duplicate scramble), the following regulations apply:
+    - 11j1) If the competitor believes they received a duplicate scramble in inspection, they should stop their attempt and call over a WCA Delegate without applying any moves to the puzzle. A competitor should not be penalized for incorrectly reporting a duplicate scramble genuinely, at the discretion of the WCA Delegate.
+    - 11j2) If the error is noticed during the group, the WCA Delegate should make an effort to give the competitor the correct scramble. An extra attempt may be given if the WCA Delegate is not certain what the correct scramble should be.
+    - 11j3) If the error is noticed during the competition but after the group, the missing attempt must be replaced with an extra attempt.
+    - 11j4) If the error is only noticed after the competition, the result will be considered DNS.
 
 ## <article-12><notation><notation> 章節 12：轉動代號
 
