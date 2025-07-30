@@ -120,7 +120,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 
 ## <article-3><puzzles><puzzles> 章節 3：方塊
 
-- 3a) 參賽者必須自己準備方塊來參賽。
+- 3a) Competitors are responsible for providing their puzzles for the competition.
     - 3a1) 當參賽者在該輪比賽被唱名時，他必須要在場並繳交方塊。(參見[規則 2u](regulations:regulation:2u))
     - 3a2) 方塊必須要能正常使用，以便被正常轉亂。
     - 3a3) 方塊的配色必須是方塊解完時，一面只有一個顏色，且一個顏色只用在一面。若方塊並非原始設計結構的方塊，該方塊必須和原始設計結構擁有同樣轉動方式、相同狀態、相同解法。
@@ -151,7 +151,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 3k2) 處罰參賽者使用不符合規定的方塊：判定該次還原未完成（DNF）。除了以下例子除外：
         - 3k2a) 如果不符合規定的方塊在該輪還未結束時被發現，稍早有被影響的成績可以被額外的還原機會所取代，由WCA代表決定。
         - 3k2b) 3x3x3多顆盲解：如果有任何方塊被發現不符合規定，可以只判決那些違規方塊還原未完成（而不是全部都還原未完成）。
-- 3l) 方塊的一個有色零件上可以有一個或多個logo，但必須最多只能在一個有色零件上。例外：盲解項目使用的方塊禁止有任何logo。
+- 3l) 方塊的一個有色零件上可以有一個或多個logo，但必須最多只能在一個有色零件上。例外：4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind, 使用的方塊禁止有任何logo。
     - 3l1) logo必須是在中心塊上。除了以下這些沒有中心塊的方塊：
         - 3l1a) 對於金字塔Pyraminx和2x2x2方塊，logo可以貼在任何一塊上。
         - 3l1b) 對於Square-1，logo必須是在中層塊上。
