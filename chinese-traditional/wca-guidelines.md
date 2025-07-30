@@ -44,24 +44,25 @@
 ## <article-2><competitors><competitors> 章節 2：參賽者
 
 - 2c+) [附加] 第一次的參賽者必須要使用自己的正式法定名字，或是希望被稱呼的名字。姓氏必須是正式法定姓氏。
-- 2c2+) [釐清] 一個WCA資料裡包含了跟參賽者相關的資料，其中含有個人資訊（名字，代表的區域，性別，出生年月日）和正式WCA比賽的所有成績。
+- 2c2+) [釐清] 一個WCA資料裡包含了跟參賽者相關的資料，其中含有個人資訊（名字，國家，性別，出生年月日）和正式WCA比賽的所有成績。
 - 2d+) [附加] 生日及聯絡資料應該要嚴格保密。
-- 2d++) [建議] 如有第三方（例如：媒體）詢問主辦團隊關於參賽者的聯絡資料，應該要先取得參賽者的同意。
+- 2d++) [REMINDER] 如有第三方（例如：媒體）詢問主辦團隊關於參賽者的聯絡資料，必須要先取得參賽者的同意。
 - 2e+) [釐清] 如果參賽者擁有多個區域的公民權，他們可以在第一場比賽中選擇代表哪個區域。
-- 2e++) [附加] WCA代表也應該要在所有參賽者的第一場比賽時以文件（例如：護照）方式確認其姓名和生日。
+- 2e++) [附加] WCA代表也應該要在所有參賽者的第一場比賽時以文件 or photos of documents（例如：護照）方式確認其姓名和生日。
 - 2e3+) [釐清] 無國籍的參賽者沒有國家紀錄和排名，也沒有洲紀錄和排名。
-- 2i+) [附加] 雖然參賽者（在沒有蒙眼時）可以拿起碼表來看目前的時間，但是他們禁止對碼表的計時功能做出啟動，停止，暫停，等其他動作。
-- 2i++) [附加] 如果參賽者不被允許碰觸正式的計時碼表時，主辦團隊可以為他們提供一個非正式的碼錶來確認時間。
+- 2i+) [附加] 雖然參賽者（在沒有蒙眼時）可以拿起碼表來看目前的時間，但是他們禁止對碼表的計時功能做出啟動，停止，暫停，等其他動作。 Exception: The competitor may stop the stopwatch at the end of their attempt if the judge is not immediately available (see [Regulation A6a1](regulations:regulation:A6a1)).
+- 2i++) [附加] 如果參賽者不被允許碰觸正式的計時碼表時，主辦團隊可以為他們提供一個非正式的碼錶來確認時間。 Exception: See the exception in [Guideline 2i+](guidelines:guideline:2i+).
 - 2i+++) [提醒] 藍芽方塊視為電子設備。
 - 2i++++) [釐清] 只有在參賽者把電子設備拿來做某種用途的情況下才會被視為使用電子設備。
 - 2i+++++) [舉例] 不被視為是使用電子設備的例子：移動相機、將手機翻面、戴著智慧型手表。
 - 2i++++++) [舉例] 被視為是使用電子設備的例子：按下相機上的按鈕，查看手機或智慧型手表上的訊息。
+- 2i+++++++) [CLARIFICATION] Devices which were previously electronic but have their electronic parts removed may be permitted, at the discretion of the WCA Delegate.
 - 2i1b+) [釐清] 這包括已關機或已切斷連線的相關裝置。
-- 2i1c+) [釐清] 電子式手用暖暖包被視為電子設備，因此不能在觀察或解方塊階段中使用。但非電子式手用暖暖包可以在還原的過程中使用。
-- 2i2+) [釐清] 只要參賽者看不到螢幕顯示的即時拍攝內容，參賽者可以在任意部位穿戴相機或任意方式拿著相機。
+- 2i2+) [CLARIFICATION] The competitor may hold or wear a camera or microphone anywhere, as long as the live feed of the camera is not visible to the competitor.
 - 2j2+) [舉例] 如果某參賽者因為在決賽缺席而被判失去比賽資格，他的前面幾輪的比賽成績仍然有效。
 - 2j2++) [舉例] 如果WCA代表在某一輪中的第三次還原時將某一位參賽者判定失去比賽資格，即使造成失去比賽資格的原因發生在更早之前，仍只有第三次和之後的成績會是無效。
 - 2k6+) [釐清] WCA代表應根據自己的判斷，阻止參賽者做出損害比賽的行為（例如：浪費時間和/或資源）。參賽者在盡力的狀況下不應該因為成績太「慢」而被取消資格。
+- 2n3+) [ADDITION] The competitor may escalate their dispute after the competition by following the process decribed in the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf).
 - 2s+) [提醒] 特別協助的案例必須要加入在WCA代表的比賽報告中。
 - 2s++) [舉例] 參賽者的特殊狀況（例如：宗教信仰）讓他們無法在某一日或某個時間比賽，WCA代表可以允許讓他們在不同的時間參賽。WCA代表在應對這種特殊請求時，應該要考量到執行比賽流程所需要的額外投入。包含先讓該參賽者在前幾輪未結束前暫時比下幾輪的可能性。
 - 2s+++) [舉例] 無法使用其中一隻手來啟動計時器的參賽者可以獲得裁判的協助來啟動或停止計時器，或是有聽力障礙的的參賽者可以用別的方式告知觀察時間。
