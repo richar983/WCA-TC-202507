@@ -312,6 +312,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 10f4) Square-1：最大45度(U/D)或90度(/)。
 - 10h) 其他未被提及的還原完成定義，以大眾公認該方塊的還原目標為基準，並運用本規則作為還原完成的判定。
     - 10h1) 魔錶Clock的還原狀態是指所有指針（18個）都朝向12點鐘。
+        - 10h1a) Inner clock faces that do not clearly point to a particular hour marker are considered to point to the nearest hour marker.
 
 
 ## <article-11><incidents><incidents> 章節 11：意外事件
