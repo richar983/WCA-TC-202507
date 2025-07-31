@@ -162,7 +162,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 ## <article-4><scrambling><scrambling> 章節 4：轉亂
 
 - 4a) 轉亂員依照轉亂步驟來轉亂方塊。
-- 4b) 方塊必須使用電腦隨機產生的轉亂步驟來轉亂。
+- 4b) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
     - 4b1) 比賽前禁止檢查所產生的轉亂步驟，且WCA代表不能用任何方式過濾或選擇。
     - 4b2) 直到該輪比賽開始前，轉亂步驟必須只能讓WCA代表檢視。直到該輪比賽結束前，轉亂步驟必須只能讓WCA代表和轉亂員檢視。例外：對於最少步數解，參賽者在比賽中會拿到轉亂步驟。(參見[附則 E](regulations:article:E))
         - 4b2a) 只有在WCA代表暫時離開時的情況下（例如：WCA代表自己要比賽），WCA代表才能把尚未使用的轉亂步驟交由比賽團隊的人保管，在這種情況下，應該要交出越少轉亂步驟越好。
