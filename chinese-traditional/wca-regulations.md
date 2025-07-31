@@ -248,10 +248,10 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - 9b5b) 門檻制的比賽當中，第一階段為「X次取最佳(Best of X)」（X為1或2），第二階段為「Y次取最佳(Best of Y)」（Y為2或3，且Y>X）。
 - 9f) 每一輪成績的計算方式如下：
     - 9f1) 除了3x3x3多顆盲解以外，所有在10分鐘以內的計時成績，無條件捨去取到小數點後第二位。所有在10分鐘以內的平均成績，四捨五入到小數點後第二位。
-    - 9f2) 所有在10分鐘以上的計時成績和平均成績，四捨五入到秒的個位數（例如：X.49 記為 X，X.5 記為 X+1）。
+    - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and truncated to seconds.
     - 9f4) 如果某一次還原未完成或是該次還原被判定無效，則該次成績記錄為DNF（未完成）。
         - 9f4a) 如果很明顯一位參賽者違反規則到要被取消該次還原成績，裁判應該要立即停止那次還原。如果裁判不確定或是可能會造成不小的爭議（例如：額外還原機會會造成比賽延遲），裁判應該要諮詢WCA代表。
-    - 9f5) 如果參賽者放棄比賽中某次還原機會，則該次成績記錄為DNS（未開始）。
+    - 9f5) if the competitor was eligible for the attempt and did not start it，則該次成績記錄為DNS（未開始）。 (see [Regulation A3b2](regulations:regulation:A3b2)).
     - 9f6) 在「X次取最佳(Best of X)」的賽制中，參賽者該輪有X次還原的機會。最佳的一次成績為該參賽者該輪用來決定排名的成績。
     - 9f7) 在「X次取最佳(Best of X)」的賽制中，DNF或DNS為該輪最差的成績。
     - 9f8) 在「5次去頭尾平均(Average of 5)」的賽制中，參賽者該輪有5次還原的機會。在這5次機會裡，最佳及最差的成績會被移除，剩餘的3次成績的平均值為該參賽者於該輪用來決定排名的成績。
@@ -273,6 +273,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - 9j) 每個比賽項目在一場比賽中最多只能舉辦一次。
 - 9k) 所有的參賽者都可以參加一場比賽中的所有比賽項目，除非在WCA比賽公告組有認可的特殊情況下以外。
 - 9l) 每一輪都必須要在該比賽項目的下一輪開始前完成。例外：額外的還原機會可以在比賽的任何時間點給予來取代原本無效的還原。
+    - 9l1) An attempt is considered invalid if an extra attempt is required to be granted.
 - 9m) 每個比賽項目最多只能有4輪。
     - 9m1) 少於100名參賽者的輪次最多只能再辦2輪。
     - 9m2) 少於16名參賽者的輪次最多只能再辦1輪。
@@ -282,7 +283,9 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 9p1) 每一輪中必須至少要有25%的參賽者被淘汰。
     - 9p2) 晉級下一輪的參賽者，其篩選方式必須依據前一輪的排名（前X名的參賽者）或是成績（所有成績優於X的參賽者）。
         - 9p2a) 每一輪的晉級條件必須在該輪比賽開始前公告且在該輪開始後不應該更改。任何修改必須由WCA代表決定，且WCA代表必須要謹慎考慮是否會有比賽公平性的問題。
+        - 9p2b) Exception: For competitions designated as a National Championship or Continental Championship, the organization team may amend advancement conditions to reserve spaces for competitors representing the relevant region. A maximum of 8 spaces or 50% of spaces in the following round, whichever is the lower, may be reserved in this way. For a round with reserved spaces, the competitors advancing from the previous round are a reserved number of best competitors representing the relevant region, followed by the remaining best competitors representing any region.
     - 9p3) 如果某位晉級的參賽者棄權，該名參賽者可以由前一輪被淘汰中擁有最佳成績的參賽者取代。
+    - 9p4) A competitor with results of only DNF and/or DNS is not eligible to advance.
 - 9s) 每一個比賽項目的每一輪都必須要有時間限制。(參見[規則 A1a](regulations:regulation:A1a))
 - 9t) 如果在比賽結束後有發生任何成績修改（例如：成績紀錄錯誤，往回追朔的處罰），假設該參賽者不應該晉級下一輪（或是比賽當時無法參加下一輪），所有之後輪數的成績必須被移除。參見[規則 9u](regulations:regulation:9u)。
     - 9t1) 如果修改成績後造成某一輪無法滿足[規則 9p1](regulations:regulation:9p1)，其他參賽者的成績禁止被移除。
