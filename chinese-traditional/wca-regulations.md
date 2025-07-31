@@ -481,7 +481,8 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - B4b) 在眼罩還未完整罩上前，參賽者不能轉動方塊或是故意改變方塊對齊狀態。處罰：判定該次還原未完成（DNF）。
     - B4c) 只要參賽者開始轉動方塊，裁判必須要確保參賽者的臉和方塊之間有一個視線遮蔽物（例如：一張紙或硬紙板）阻隔。
         - B4c1) 在所有情況下，參賽者必須要戴上眼罩，以確保當視線遮蔽物沒有阻隔時，參賽者無法看到方塊。
-        - B4c3) 如果裁判和參賽者事先同意，參賽者可以自行在盲解階段把方塊放置於一個適當物品後面（例如：譜架或是桌子下面）。
+        - B4c2) A sight blocker must be positioned such that the competitor's view of the puzzle would still clearly be blocked if they were not wearing a blindfold.
+        - B4c3) If the judge and competitor agree beforehand, or if required by the organization team, a suitable object (e.g. a music stand, the surface of the table) placed by the competitor may be used as the sight blocker. The competitor must make a reasonable attempt to place the sight blocker themselves. Penalty: disqualification of the attempt (DNF). If the sight blocker is not positioned such that the competitor's view of the puzzle would still clearly be blocked if they were not wearing a blindfold, an extra sight blocker should be placed by the judge.
     - B4d) 參賽者不能在盲解階段的任何時刻看到方塊。處罰：判定該次還原未完成（DNF）。
 - B5) 結束：
     - B5a) 如果是使用Stackmat計時器，參賽者以放下方塊然後停止計時器來結束這次解方塊階段。
